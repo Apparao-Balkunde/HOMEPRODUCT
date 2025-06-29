@@ -1,0 +1,1 @@
+Use MongoDB Atlas or local MongoDB. Collections: users, products, orders.
