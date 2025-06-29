@@ -1,1 +1,0 @@
-// Food item schema
