@@ -1,5 +1,7 @@
 Flask
 flask-cors
 pymongo[srv]
+bcrypt
+pyjwt
 dnspython
 gunicorn
